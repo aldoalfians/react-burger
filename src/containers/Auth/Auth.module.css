@@ -1,0 +1,35 @@
+.Auth {
+	margin: 20px auto;
+	width: 80%;
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0 2px 2px 0px #fff;
+	padding: 24px 24px 16px;
+	box-sizing: border-box;
+}
+
+.LoginText {
+	width: 73%;
+	text-align: justify;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+		"Lucida Sans", Arial, sans-serif;
+	border-bottom: solid 1px #dedfe0;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	color: #29303b;
+	display: block;
+	font-weight: 700;
+	font-size: 15px;
+	padding: 24px 64px 24px 10px;
+}
+
+.SignIn {
+	margin: 0px -10px;
+	width: 100%;
+}
+
+@media (min-width: 600px) {
+	.Auth {
+		width: 500px;
+	}
+}

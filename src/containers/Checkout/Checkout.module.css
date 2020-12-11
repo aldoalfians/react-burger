@@ -1,0 +1,10 @@
+.Checkout {
+	background-color: #ffffffe1;
+	margin: 15px auto;
+	width: 80%;
+	text-align: center;
+	border: 1px solid #eee;
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
