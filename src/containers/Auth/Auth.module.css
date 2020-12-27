@@ -21,6 +21,7 @@
 	font-weight: 700;
 	font-size: 15px;
 	padding: 24px 64px 24px 10px;
+	box-sizing: border-box;
 }
 
 .SignIn {
@@ -33,3 +34,4 @@
 		width: 500px;
 	}
 }
+
